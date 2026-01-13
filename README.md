@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=DaviVasconcelosINFOS&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Coffee%20Driven%20%7C%20Bug%20Hunter&descAlignY=55&descAlign=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000080,4B0082,800080&height=280&section=header&text=DaviVasconcelosINFOS&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Coffee%20Driven%20%7C%20Bug%20Hunter&descAlignY=55&descAlign=60"/>
 </div>
 
 <div align="center">
@@ -29,12 +29,11 @@ const davi = {
 };
 ```
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" style="height:auto;" alt="Cat Programming" />
+<div align="center" style="display:inline-block; padding:15px; border:2px solid #61dafb; border-radius:15px; background:linear-gradient(135deg, #282c34, #20232a); box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" style="height:auto; border-radius:10px;" alt="Cat Programming" />
   <br>
-  <em>"If it compiles, it works (probably). And remember: it's not a bug, it's a feature!"</em>
-</p>
-
+  <em style="color:#ffffff;">"If it throws a weird error… that's a good sign! Not a bug, a feature 🐾"</em>
+</div>
 
 ---
 
