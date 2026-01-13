@@ -30,7 +30,7 @@ const davi = {
 ```
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" alt="Cat Programming" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" style="max-height:200px; width:auto;" alt="Cat Programming" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ const davi = {
 
 | **Backend & Data** | **Frontend & Mobile** | **Tools & DevOps** |
 |:---:|:---:|:---:|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) |
 | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
@@ -56,7 +56,21 @@ const davi = {
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **🌐 [MEDCEI Epidemic](https://medcei.example.com)** | ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | A simulator for SIR/SIRD models with interactive dashboards for population dynamics. **Complex Logic Inside!** |
-| **📱 [Kora App](https://kora.example.com)** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | Cross-platform productivity booster. Because we all need a little push to get things done. |
+| **📱 [Kora App](https://kora.example.com)** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![Firebase](https://img.shields.io/badge/-React-FFCA28?logo=firebase&logoColor=black) | Cross-platform productivity booster. Because we all need a little push to get things done. |
+
+---
+
+### ⚡ Stats & Activity
+
+<div align="center">
+
+[![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviVasconcelosINFOS&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVasconcelosINFOS&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
 
 <div align="center">
   
