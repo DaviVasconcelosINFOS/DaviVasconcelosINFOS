@@ -4,8 +4,8 @@
 
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
-  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seu.email@exemplo.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-LINK-AQUI](https://www.linkedin.com/in/davi-de-castro-vasconcelos-912990212/)
+  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:davivasconcelos.dba@gmail.com)
 
   <h3>👨‍💻 "It works on my machine..." and hopefully on yours too!</h3>
 </div>
@@ -58,8 +58,9 @@ const davi = {
 ### ⚡ Stats & Activity
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=codedbydavi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=codedbydavi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)" height="150" alt="stats graph"  />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=codedbydavi&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=codedbydavi&layout=compact&theme=tokyonight&hide_border=true)" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbydavi&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbydavi&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ---
@@ -68,7 +69,7 @@ const davi = {
   
   ### 🧠 My Brain During Debugging
   
-  <img src="[https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif](https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif)" width="200">
+  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="200">
   
   <br>
   
@@ -76,6 +77,6 @@ const davi = {
 
   <br>
   
-  <img src="[https://profile-counter.glitch.me/codedbydavi/count.svg](https://profile-counter.glitch.me/CodedByDavi/count.svg)" alt="visitor count">
+  <img src="https://profile-counter.glitch.me/codedbydavi/count.svg" alt="visitor count">
   
 </div>
