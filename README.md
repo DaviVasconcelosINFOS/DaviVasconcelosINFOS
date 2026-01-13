@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-LINK-AQUI](https://www.linkedin.com/in/davi-de-castro-vasconcelos-912990212/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-de-castro-vasconcelos-912990212/)
   [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:davivasconcelos.dba@gmail.com)
 
   <h3>👨‍💻 "It works on my machine..." and hopefully on yours too!</h3>
