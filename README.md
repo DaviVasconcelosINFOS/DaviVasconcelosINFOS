@@ -32,7 +32,7 @@ const davi = {
 <div align="center" style="display:inline-block; padding:20px; border:3px solid #4B0082; border-radius:20px; background: linear-gradient(135deg, #000080, #800080); box-shadow: 0px 0px 20px rgba(0,0,0,0.6);">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" style="height:auto; border-radius:15px;" alt="Cat Programming" />
   <br>
-  <em style="color:#ffffff;">"If it throws a weird error… that's a good sign! Not a bug, a feature 🐾"</em>
+  <em style="color:#ffffff;">"If it compiles, it works (probably). And remember: it's not a bug, it's a feature! 🐾"</em>
 </div>
 
 ---
