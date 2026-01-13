@@ -1,131 +1,81 @@
-# 👨‍💻 CodedByDavi
+<div align="center">
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=CodedByDavi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Coffee%20Driven%20%7C%20Bug%20Hunter&descAlignY=55&descAlign=60](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=CodedByDavi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Coffee%20Driven%20%7C%20Bug%20Hunter&descAlignY=55&descAlign=60)"/>
+</div>
 
-💻 **Full Stack Developer**  
-🎓 Computer Engineering Student  
-📍 Porto, Portugal  
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
+  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seu.email@exemplo.com)
 
-I’m a passionate developer focused on building **scalable, secure, and well-structured applications**, both on the **backend** and **frontend**.  
-I enjoy learning how things work under the hood and applying best practices in real-world projects.
-
----
-
-<p align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VyYmFxZ2hrMmpyODRyaTlxM2Nld3QzMHl0a3FkeHQ5dWZ3Mnh0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="500">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-Flask-000000?logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/React-Tailwind-38BDF8?logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-</p>
+  <h3>👨‍💻 "It works on my machine..." and hopefully on yours too!</h3>
+</div>
 
 ---
 
-## 🚀 About Me
+### 🧐 About Me (The Code Version)
 
-- 🎓 Studying **Computer Engineering**
-- 💼 Full Stack Developer with a focus on **Backend Architecture**
-- 🔐 Strong interest in **Learning new programming languages and technologies**
-- 📊 Exploring **Data Processing, Spark & Machine Learning**
-- 🧠 Constantly improving **clean code & system design**
+```javascript
+const davi = {
+    role: "Full Stack Developer",
+    student: "Computer Engineering @ Porto, Portugal",
+    code: ["Java", "Python", "JavaScript", "Dart"],
+    tools: ["Spring Boot", "React", "Flask", "Flutter"],
+    currentFocus: "Architecting scalable backends & drinking coffee",
+    challenge: "Trying to center a div without crying",
+    funFact: () => {
+        return "I enjoy backend logic as much as frontend UI (rare species!)";
+    }
+};
+```
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack & Arsenal
 
-<p align="center">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> Advanced
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> Advanced
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> Intermediate
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> Intermediate
+<div align="center">
+
+| **Backend & Data** | **Frontend & Mobile** | **Tools & DevOps** |
+|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) |
+| ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) |
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **🌐 [MEDCEI Epidemic](https://medcei.example.com)** | ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | A simulator for SIR/SIRD models with interactive dashboards for population dynamics. **Complex Logic Inside!** |
+| **📱 [Kora App](https://kora.example.com)** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | Cross-platform productivity booster. Because we all need a little push to get things done. |
+
+---
+
+### ⚡ Stats & Activity
+
+<div align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=CodedByDavi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=CodedByDavi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)" height="150" alt="stats graph"  />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=CodedByDavi&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=CodedByDavi&layout=compact&theme=tokyonight&hide_border=true)" height="150" alt="languages graph" />
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🧠 My Brain During Debugging
+  
+  <img src="[https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif](https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif)" width="200">
+  
   <br>
-  REST APIs – Advanced  
-  JWT Authentication – Intermediate  
-  ORM & ACID – Advanced
-</p>
+  
+  *"Clean code is not just a practice, it's a religion... that I try not to sin against too often."*
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> Advanced
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> Advanced
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" /> Advanced
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> Intermediate
   <br>
-  Admin Dashboards & UI/UX – Advanced  
-  Axios & API Integration – Advanced
-</p>
-
-<p align="center">
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> Advanced
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> Advanced
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> Intermediate
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> Intermediate
-</p>
-
-<p align="center">
-  <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> Advanced
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> Advanced
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> Beginner
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> Advanced
-  <br>
-  Swagger / OpenAPI – Intermediate
-</p>
-
-<p align="center">
-  <!-- Data & ML -->
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" /> Beginner/Intermediate
-  <br>
-  CSV / Big Data Processing – Beginner/Intermediate  
-  Intro to Machine Learning Concepts – Beginner/Intermediate
-</p>
-
-
----
-
-## 📌 Projects
-
-Here are some of the projects I have worked on:
-
-### 🌐 [MEDCEI Epidemic Simulator](https://medcei.example.com)  
-A **web-based epidemic simulation platform** developed using Flask and React.  
-- Simulates SIR/SIRD models  
-- Includes interactive dashboards for population dynamics  
-- User authentication & role-based access  
-
-### 📱 [Kora](https://kora.example.com)  
-A **mobile application** developed with Flutter to improve user engagement and productivity.  
-- Cross-platform support (iOS & Android)  
-- Clean UI with responsive design  
-- Integrated Firebase for authentication and real-time data  
-
-*(Links above are placeholders; replace with real URLs)*
-
----
-
-## 📈 GitHub Stats
-
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodedByDavi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodedByDavi&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact Me
-
-- 💼 LinkedIn: **[Your LinkedIn](https://www.linkedin.com/in/your-link)**  
-- 📧 Email: **your.email@example.com**
-
----
-
-## ⚡ Fun Facts
-
-- I like understanding **why** things work, not just *how*  
-- I enjoy backend logic as much as frontend UI  
-- Clean code > clever code  
-
----
-
-⭐️ *Feel free to explore my repositories and connect with me!*
+  
+  <img src="[https://profile-counter.glitch.me/CodedByDavi/count.svg](https://profile-counter.glitch.me/CodedByDavi/count.svg)" alt="visitor count">
+  
+</div>
