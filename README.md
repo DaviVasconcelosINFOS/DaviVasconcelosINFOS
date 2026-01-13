@@ -1,13 +1,16 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=CodedByDavi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Coffee%20Driven%20%7C%20Bug%20Hunter&descAlignY=55&descAlign=60](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=CodedByDavi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Coffee%20Driven%20%7C%20Bug%20Hunter&descAlignY=55&descAlign=60)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=codedbydavi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Coffee%20Driven%20%7C%20Bug%20Hunter&descAlignY=55&descAlign=60"/>
 </div>
 
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-de-castro-vasconcelos-912990212/)
-  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:davivasconcelos.dba@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seu.email@exemplo.com)
 
   <h3>👨‍💻 "It works on my machine..." and hopefully on yours too!</h3>
+  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+  
 </div>
 
 ---
@@ -69,7 +72,7 @@ const davi = {
   
   ### 🧠 My Brain During Debugging
   
-  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="200">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedbydavi)](https://github.com/codedbydavi/github-readme-stats)
   
   <br>
   
@@ -77,6 +80,6 @@ const davi = {
 
   <br>
   
-  <img src="https://profile-counter.glitch.me/codedbydavi/count.svg" alt="visitor count">
+  <img src="https://www.google.com/search?q=https://profile-counter.glitch.me/codedbydavi/count.svg" alt="visitor count">
   
 </div>
