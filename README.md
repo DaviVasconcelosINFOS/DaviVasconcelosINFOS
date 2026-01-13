@@ -30,8 +30,11 @@ const davi = {
 ```
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" style="max-height:200px; width:auto;" alt="Cat Programming" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" style="height:auto;" alt="Cat Programming" />
+  <br>
+  <em>"If it compiles, it works (probably). And remember: it's not a bug, it's a feature!"</em>
 </p>
+
 
 ---
 
