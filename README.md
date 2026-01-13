@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=codedbydavi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Coffee%20Driven%20%7C%20Bug%20Hunter&descAlignY=55&descAlign=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=DaviVasconcelosINFOS&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Coffee%20Driven%20%7C%20Bug%20Hunter&descAlignY=55&descAlign=60"/>
 </div>
 
 <div align="center">
@@ -63,9 +63,9 @@ const davi = {
 ### ⚡ Stats & Activity
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=codedbydavi&show_icons=true&theme=tokyonight&hide_border=true" alt="Davi's GitHub Stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DaviVasconcelosINFOS&show_icons=true&theme=tokyonight&hide_border=true" alt="Davi's GitHub Stats"/>
   
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbydavi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVasconcelosINFOS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
@@ -80,6 +80,6 @@ const davi = {
 
   <br>
   
-  ![Visitor Count](https://profile-counter.glitch.me/codedbydavi/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/DaviVasconcelosINFOS/count.svg)
 
 </div>
