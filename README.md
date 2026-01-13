@@ -7,9 +7,11 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-de-castro-vasconcelos-912990212/)
   [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seu.email@exemplo.com)
 
+  <p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Cat Programming" />
+  </p>
+
   <h3>👨‍💻 "It works on my machine..." and hopefully on yours too!</h3>
-  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
   
 </div>
 
@@ -61,9 +63,9 @@ const davi = {
 ### ⚡ Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbydavi&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=codedbydavi&show_icons=true&theme=tokyonight&hide_border=true" alt="Davi's GitHub Stats"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbydavi&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbydavi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
@@ -72,14 +74,12 @@ const davi = {
   
   ### 🧠 My Brain During Debugging
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedbydavi)](https://github.com/codedbydavi/github-readme-stats)
-  
   <br>
   
   *"Clean code is not just a practice, it's a religion... that I try not to sin against too often."*
 
   <br>
   
-  <img src="https://www.google.com/search?q=https://profile-counter.glitch.me/codedbydavi/count.svg" alt="visitor count">
-  
+  ![Visitor Count](https://profile-counter.glitch.me/codedbydavi/count.svg)
+
 </div>
