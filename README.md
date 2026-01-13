@@ -8,7 +8,7 @@
   [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seu.email@exemplo.com)
 
   <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Cat Programming" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" alt="Cat Programming" />
   </p>
 
   <h3>👨‍💻 "It works on my machine..." and hopefully on yours too!</h3>
@@ -63,9 +63,9 @@ const davi = {
 ### ⚡ Stats & Activity
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DaviVasconcelosINFOS&show_icons=true&theme=tokyonight&hide_border=true" alt="Davi's GitHub Stats"/>
+  ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviVasconcelosINFOS&show_icons=true&theme=radical)
   
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVasconcelosINFOS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVasconcelosINFOS)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
@@ -80,6 +80,6 @@ const davi = {
 
   <br>
   
-  ![Visitor Count](https://profile-counter.glitch.me/DaviVasconcelosINFOS/count.svg)
+  <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DDaviVasconcelosINFOS%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="profile views">
 
 </div>
