@@ -7,10 +7,6 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davi-de-castro-vasconcelos-912990212/)
   [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seu.email@exemplo.com)
 
-  <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" alt="Cat Programming" />
-  </p>
-
   <h3>👨‍💻 "It works on my machine..." and hopefully on yours too!</h3>
   
 </div>
@@ -32,6 +28,10 @@ const davi = {
     }
 };
 ```
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" alt="Cat Programming" />
+</p>
 
 ---
 
@@ -58,18 +58,6 @@ const davi = {
 | **🌐 [MEDCEI Epidemic](https://medcei.example.com)** | ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | A simulator for SIR/SIRD models with interactive dashboards for population dynamics. **Complex Logic Inside!** |
 | **📱 [Kora App](https://kora.example.com)** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | Cross-platform productivity booster. Because we all need a little push to get things done. |
 
----
-
-### ⚡ Stats & Activity
-
-<div align="center">
-  ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviVasconcelosINFOS&show_icons=true&theme=radical)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVasconcelosINFOS)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
----
-
 <div align="center">
   
   ### 🧠 My Brain During Debugging
@@ -80,6 +68,6 @@ const davi = {
 
   <br>
   
-  <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DDaviVasconcelosINFOS%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="profile views">
+  ![Visitor Count!](https://komarev.com/ghpvc/?username=DaviVasconcelosINFOS&abbreviated=true)
 
 </div>
